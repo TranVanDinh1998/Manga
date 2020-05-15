@@ -2,7 +2,6 @@
 class App {
     protected $directory = "Manga";
     protected $controller = "MangaController";
-    // protected $controller = "";
     protected $action = "index";
     protected $params = [];
 #
